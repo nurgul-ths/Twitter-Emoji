@@ -12,7 +12,7 @@ const config = {
       parserOptions: {
         project: path.join(__dirname, "tsconfig.json"),
       },
-    },
+    }, 
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
